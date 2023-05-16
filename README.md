@@ -5,7 +5,6 @@ Welcome to my GitHub profile!<br> I'm a passionate programmer and a recent gradu
 * React/React Native 
 * PostgreSQL/MySQL 
 * AWS. 
-<br> I love building innovative projects and exploring the exciting world of technology.
 
 ## About Me
 🎓 I'm a 20-year-old graduate from an IT high school.<br>
