@@ -2,7 +2,7 @@
 Welcome to my GitHub profile!<br> I'm a passionate programmer and student at Poznań University of technology.
 
 ## About Me
-🎓 I'm a 20-year-old graduate from an IT high school.<br>
+🎓 I'm a 21-year-old graduate from an IT high school.<br>
 💻 I'm skilled in TypeScript💙, Node.js, React/React Native, PostgreSQL/MySQL, and AWS.<br>
 
 ## Certs
