@@ -19,8 +19,8 @@ An innovative startup revolutionizing cryptocurrency payments for both brick-and
 - **Tech Stack**: Node.js, React Native, Next.js, Postgresql, AWS
 
 ## Connect With Me
-<!-- You can add your social media links here -->
-- [LinkedIn](#) <!-- https://www.linkedin.com/in/dinozar/ -->
-- [Email](#) <!-- sz.tomczak@hotmail.com -->
+
+- [LinkedIn](https://www.linkedin.com/in/dinozar/)
+- [Email](sz.tomczak@hotmail.com)
 
 ---
